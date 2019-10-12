@@ -1,7 +1,6 @@
 # _*_ coding:utf-8   _*_
-# 开发团队：明日科技
-# 开发人员：Administrator
-# 开发时间：2018/11/22 12:53
+# 开发人员：wanghaidong
+# 开发时间：2019/06/22
 # 文件名称：studentsystem.py
 # 开发工具：PyCharm
 import re  # 导入正则表达式模块
